@@ -3,7 +3,7 @@
 #include <string.h>
 #include "funciones.h"
 
-#define VECTOR 4
+#define VECTOR 20
 
 
 int indice;
